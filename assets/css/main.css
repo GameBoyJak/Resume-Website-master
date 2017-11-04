@@ -3,6 +3,18 @@
 
 .pixel{
 	font-family: 'Press Start 2P', cursive;
+	color: lightblue;
+}
+
+.text{
+	font-size: 23px;
+}
+
+.game{
+	font-size: 17px;
+}
+
+.about{
 }
 
 /*
